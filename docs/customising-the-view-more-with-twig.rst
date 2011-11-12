@@ -460,7 +460,6 @@ with the following.
                     </p>
                 </header>
                 <p>{{ comment.comment }}</p>
-                </p>
             </article>
         {% else %}
             <p>There are no recent comments</p>
